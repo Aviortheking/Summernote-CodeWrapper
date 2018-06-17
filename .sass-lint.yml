@@ -1,0 +1,8 @@
+rules:
+  force-element-nesting: false
+  no-qualifying-elements:
+    allow-element-with-class: true
+  indentation:
+    size: 'tab'
+  no-color-literals:
+    allow-rgba: true
